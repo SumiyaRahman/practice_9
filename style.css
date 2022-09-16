@@ -3,6 +3,7 @@
 body{
     background-color: rgba(43, 43, 43, 0.932);
     margin: 0;
+    flex-wrap: wrap;
 }
 .section-1,.section-1,#all-content{
     margin: auto;
